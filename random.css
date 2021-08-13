@@ -1,0 +1,28 @@
+#container {
+    background-color: #0E2431;
+    border: 5px solid;
+    height: 300px;
+    width: 755px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+#btn {
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    background-color: white;
+
+}
+
+#output {
+    margin: 5px auto;
+    font-size: 26px;
+    color: white;
+}
